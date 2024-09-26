@@ -6,7 +6,7 @@
 	},
 	"id": "dogotrigger.cherrybadges",
 	"name": "Cherry Badges",
-	"version": "v1.0.1",
+	"version": "v1.0.2",
 	"developers": [ "dogotrigger", "LolsShow", "BlastiXCore", "MaximalDash" ],
 	"description": "This mod adds some cherry team badges using Badges API",
 	"resources": {
@@ -25,5 +25,14 @@
 			"importance": "required",
 			"version": ">=v1.13.1"
 		}
-	]
+	],
+	"issues": {
+		"info": "You can report issues about Cherry Badges in <cy>the mod's repository</c>.",
+		"url": "https://github.com/SergeyMC9730/cherrybadges"
+	},
+	"repository": "https://github.com/SergeyMC9730/cherrybadges",
+	"links": {
+		"repository": "https://github.com/SergeyMC9730/cherrybadges"
+	},
+	"tags": [ "online", "enhancement" ]
 }

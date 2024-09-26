@@ -1,3 +1,7 @@
+# 1.0.2
+- Added mod tags
+- Added GitHub link
+
 # 1.0.1
 - Added ElizabethaGames (Vernam) username
 - Added Android support
