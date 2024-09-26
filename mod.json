@@ -1,0 +1,29 @@
+{
+	"geode": "3.7.1",
+	"gd": {
+		"win": "2.206",
+		"android": "2.206"
+	},
+	"id": "dogotrigger.cherrybadges",
+	"name": "Cherry Badges",
+	"version": "v1.0.0",
+	"developers": [ "dogotrigger", "LolsShow", "BlastiXCore", "MaximalDash" ],
+	"description": "This mod adds some cherry team badges using Badges API",
+	"resources": {
+		"sprites": [
+			"resources/*"
+		]
+	},
+	"dependencies": [
+		{
+			"id": "jouca.badgesapi",
+			"version": ">=v1.0.6",
+			"importance": "required"
+		},
+		{
+			"id": "geode.node-ids",
+			"importance": "required",
+			"version": ">=v1.13.1"
+		}
+	]
+}
