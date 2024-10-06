@@ -8,17 +8,17 @@ using namespace geode::prelude;
 
 namespace CGlobal {
     std::map<std::string, std::vector<std::string>> members = {
-        {"unknown", {"VerMir24", "cherryteam", "LordVadercraft", "vagunaru", 
-            "Maybbee", "hxkxrxdnxss",  "Flame5252", "ElizabethaGames"}}, // CT_badge_01_002.png would be loaded
+        {"unknown", {"cherryteam", "LordVadercraft", "vagunaru", 
+            "Maybbee", "hxkxrxdnxss",  "Flame5252", "LolsShow", "nikverr"}}, // CT_badge_01_002.png would be loaded
         {"tech", {"dogotrigger", "jaizereal", "pineapplecat"}},
         {"creator", {"eseattle", "Louree", "winchester94", "kissskisss", "Kanati", 
             "pufiksunduk", "akek0", "yoncawave", "Beateo", "saures", "vust",
-            "H4ss1um"}},
+            "H4ss1um", "CHRAPIVA", "HypereliX"}},
         {"musician", {"BlastiXCore", "enipoint"}},
-        {"leader", {"nikverr", "qmystic"}},
+        {"leader", {"qmystic", "ElizabethaGames", "inex"}},
         {"artist", {"maximaldash", "pineapplecat", "hantein"}},
         {"media", {"Zhopolom", "qRosen", "MaFFaKa", "Finnonie"}},
-        {"record", {"Luster3", "blessedmt", "ElPaan", "ShadowPlayerOL"}}
+        {"record", {"Luster3", "blessedmt", "ElPaan", "ShadowPlayerOL", "midix"}}
     };
 
     std::vector<std::string> staff = {

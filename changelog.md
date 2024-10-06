@@ -1,3 +1,17 @@
+# 1.0.4
+- Added midix username (role: record)
+- Added Inex username (role: leader)
+- Changed role for nikverr (role: unknown)
+- Added CHRAPIVA (role: creator)
+- Added HypereliX (role: creator)
+- Bump minimal Geode version to `3.8.1`
+
+# 1.0.3
+- Changed role for ElizabethaGames (role: leader+staff)
+- Added LolsShow username (role: guest)
+- Removed VerMir24
+- Removed `support.md` file
+
 # 1.0.2
 - Added mod tags
 - Added GitHub link
