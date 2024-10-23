@@ -1,3 +1,14 @@
+# 1.0.5
+- Added Kivvvi (role: creator)
+- Added HumanFH (role: creator)
+- Added extxzyyyy (role: creator)
+- Added azhir (role: creator)
+- Added saures42 (role: creator)
+- Added HelpegasuS (role: artist)
+- Added Partur (role: staff)
+- Removed saures
+- Fixed grammar
+
 # 1.0.4
 - Added midix username (role: record)
 - Added Inex username (role: leader)

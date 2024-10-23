@@ -9,20 +9,22 @@ using namespace geode::prelude;
 namespace CGlobal {
     std::map<std::string, std::vector<std::string>> members = {
         {"unknown", {"cherryteam", "LordVadercraft", "vagunaru", 
-            "Maybbee", "hxkxrxdnxss",  "Flame5252", "LolsShow", "nikverr"}}, // CT_badge_01_002.png would be loaded
+            "Maybbee", "hxkxrxdnxss",  "Flame5252", "LolsShow", 
+			"nikverr", "Partur"}}, // CT_badge_01_002.png would be loaded
         {"tech", {"dogotrigger", "jaizereal", "pineapplecat"}},
         {"creator", {"eseattle", "Louree", "winchester94", "kissskisss", "Kanati", 
             "pufiksunduk", "akek0", "yoncawave", "Beateo", "saures", "vust",
-            "H4ss1um", "CHRAPIVA", "HypereliX"}},
+            "H4ss1um", "CHRAPIVA", "HypereliX", "Kivvvi", "HumanFH",
+			"extxzyyyy", "azhir"}},
         {"musician", {"BlastiXCore", "enipoint"}},
         {"leader", {"qmystic", "ElizabethaGames", "inex"}},
-        {"artist", {"maximaldash", "pineapplecat", "hantein"}},
+        {"artist", {"maximaldash", "pineapplecat", "hantein", "HelpegasuS"}},
         {"media", {"Zhopolom", "qRosen", "MaFFaKa", "Finnonie"}},
         {"record", {"Luster3", "blessedmt", "ElPaan", "ShadowPlayerOL", "midix"}}
     };
 
     std::vector<std::string> staff = {
-        "lordvadercraft", "vagunaru", "maffaka", "qmystic", "elizabethagames"
+        "lordvadercraft", "vagunaru", "maffaka", "qmystic", "elizabethagames", "partur"
     };
 
     template <typename T>
@@ -149,17 +151,17 @@ class $modify(XProfilePage, ProfilePage) {
 
         std::map<std::string, std::string> roleMap1 = {
             {"tech", "technician or programmer"},
-            {"creator", "decorator or layout maker"},
+            {"creator", "decorator, layout maker or part joiner"},
             {"artist", "artist"},
             {"slayer", "demon slayer"},
             {"musician", "musician"},
             {"grinder", "star grinder"},
             {"media", "active in cherry team's social media"},
-            {"record", "record showcases for cherry team members"}
+            {"record", "recording showcases for cherry team members"}
         };
         static std::map<std::string, std::string> roleMap2 = {
             {"tech", "<cj>makes mods</c> and/or <cj>software</c> for cherry team. Sometimes player with this role also <cl>know how to work with the triggers</c>"},
-            {"creator", "<cj>is working on levels by cherry team</c>. This player also <cp>can know the editor very well</c> or.. <cb>just work on level layouts or deco</c>"},
+            {"creator", "<cj>is working on levels made by cherry team</c>. This player also <cp>can know the editor very well</c> or.. <cb>just work on level layouts or deco</c>"},
             {"artist", "is working on <cy>arts</c> for cherry team levels"},
             {"musician", "<cj>makes music</c> for cherry team levels"},
             {"media", "<cj>runs official cherry team accounts and/or channels</c> in <cy>GD</c> or <cy>Telegram</c> for example"}
