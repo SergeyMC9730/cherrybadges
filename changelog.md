@@ -1,3 +1,9 @@
+# 1.0.6
+- Added VerMir24 (role: unknown)
+- Added viperarctarus (role: creator)
+- Added Leftyy (role: creator)
+- Added extxzyyyy (role: creator + staff)
+
 # 1.0.5
 - Added Kivvvi (role: creator)
 - Added HumanFH (role: creator)

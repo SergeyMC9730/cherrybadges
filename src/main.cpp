@@ -10,21 +10,22 @@ namespace CGlobal {
     std::map<std::string, std::vector<std::string>> members = {
         {"unknown", {"cherryteam", "LordVadercraft", "vagunaru", 
             "Maybbee", "hxkxrxdnxss",  "Flame5252", "LolsShow", 
-			"nikverr", "Partur"}}, // CT_badge_01_002.png would be loaded
+			"nikverr", "Partur", "VerMir24"}}, // CT_badge_01_002.png would be loaded
         {"tech", {"dogotrigger", "jaizereal", "pineapplecat"}},
         {"creator", {"eseattle", "Louree", "winchester94", "kissskisss", "Kanati", 
             "pufiksunduk", "akek0", "yoncawave", "Beateo", "saures", "vust",
             "H4ss1um", "CHRAPIVA", "HypereliX", "Kivvvi", "HumanFH",
-			"extxzyyyy", "azhir"}},
+			"extxzyyyy", "azhir", "extxzyyyy", "Leftyy", "viperarctarus"}},
         {"musician", {"BlastiXCore", "enipoint"}},
         {"leader", {"qmystic", "ElizabethaGames", "inex"}},
         {"artist", {"maximaldash", "pineapplecat", "hantein", "HelpegasuS"}},
         {"media", {"Zhopolom", "qRosen", "MaFFaKa", "Finnonie"}},
         {"record", {"Luster3", "blessedmt", "ElPaan", "ShadowPlayerOL", "midix"}}
-    };
+    };,
 
     std::vector<std::string> staff = {
-        "lordvadercraft", "vagunaru", "maffaka", "qmystic", "elizabethagames", "partur"
+        "lordvadercraft", "vagunaru", "maffaka", "qmystic", "elizabethagames", "partur",
+		"extxzyyyy"
     };
 
     template <typename T>
