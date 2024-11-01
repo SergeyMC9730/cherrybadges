@@ -6,7 +6,7 @@
 	},
 	"id": "dogotrigger.cherrybadges",
 	"name": "Cherry Badges",
-	"version": "v1.0.5",
+	"version": "v1.0.6",
 	"developers": [ "dogotrigger", "LolsShow", "BlastiXCore", "MaximalDash" ],
 	"description": "This mod adds some cherry team badges using Badges API",
 	"resources": {
