@@ -21,7 +21,7 @@ namespace CGlobal {
         {"artist", {"maximaldash", "pineapplecat", "hantein", "HelpegasuS"}},
         {"media", {"Zhopolom", "qRosen", "MaFFaKa", "Finnonie"}},
         {"record", {"Luster3", "blessedmt", "ElPaan", "ShadowPlayerOL", "midix"}}
-    };,
+    };
 
     std::vector<std::string> staff = {
         "lordvadercraft", "vagunaru", "maffaka", "qmystic", "elizabethagames", "partur",
