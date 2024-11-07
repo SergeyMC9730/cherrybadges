@@ -1,3 +1,7 @@
+# 1.0.7
+- Added HatPlayer (role: creator)
+- Added TobyAdd (role: tech)
+
 # 1.0.6
 - Added VerMir24 (role: unknown)
 - Added viperarctarus (role: creator)
