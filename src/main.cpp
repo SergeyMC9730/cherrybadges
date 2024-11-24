@@ -10,7 +10,7 @@ namespace CGlobal {
     std::map<std::string, std::vector<std::string>> members = {
         {"unknown", {"cherryteam", "LordVadercraft", "vagunaru", 
             "Maybbee", "hxkxrxdnxss",  "Flame5252", "LolsShow", 
-			"nikverr", "Partur", "VerMir24"}}, // CT_badge_01_002.png would be loaded
+			"nikverr", "Partur", "VerMir24", "Pes11"}}, // CT_badge_01_002.png would be loaded
         {"tech", {"dogotrigger", "jaizereal", "pineapplecat", "TobyAdd"}},
         {"creator", {"eseattle", "Louree", "winchester94", "kissskisss", "Kanati", 
             "pufiksunduk", "akek0", "yoncawave", "Beateo", "saures", "vust",
