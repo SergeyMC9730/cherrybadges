@@ -14,12 +14,12 @@ namespace CGlobal {
         {"tech", {"dogotrigger", "jaizereal", "pineapplecat", "TobyAdd"}},
         {"creator", {"eseattle", "Louree", "winchester94", "kissskisss", "Kanati", 
             "pufiksunduk", "akek0", "yoncawave", "Beateo", "saures", "vust",
-            "H4ss1um", "CHRAPIVA", "HypereliX", "Kivvvi", "HumanFH",
+            "H4ss1um", "CHRAPIVA", "HypereliX", "Kivvvi",
 			"extxzyyyy", "azhir", "extxzyyyy", "Leftyy", "viperarctarus",
 			"HatPlayer"}},
         {"musician", {"BlastiXCore", "enipoint"}},
         {"leader", {"qmystic", "ElizabethaGames", "inex"}},
-        {"artist", {"maximaldash", "pineapplecat", "hantein", "HelpegasuS"}},
+        {"artist", {"maximaldash", "pineapplecat", "hantein", "HelpegasuS", "wintermonster"}},
         {"media", {"Zhopolom", "qRosen", "MaFFaKa", "Finnonie"}},
         {"record", {"Luster3", "blessedmt", "ElPaan", "ShadowPlayerOL", "midix"}}
     };

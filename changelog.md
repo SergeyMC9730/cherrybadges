@@ -1,3 +1,7 @@
+# 1.0.9
+- Added wintermonster (role: artist)
+- Removed HumanFH
+
 # 1.0.8
 - Bumped minimal Geode version to `4.0.1`
 - Added Pes11 (role: unknown)
