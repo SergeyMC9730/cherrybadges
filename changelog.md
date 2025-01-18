@@ -1,3 +1,7 @@
+# 1.0.10
+- Added LAWET (role: creator)
+- Added SacredMode (role: creator)
+
 # 1.0.9
 - Added wintermonster (role: artist)
 - Removed HumanFH

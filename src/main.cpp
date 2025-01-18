@@ -16,7 +16,7 @@ namespace CGlobal {
             "pufiksunduk", "akek0", "yoncawave", "Beateo", "saures", "vust",
             "H4ss1um", "CHRAPIVA", "HypereliX", "Kivvvi",
 			"extxzyyyy", "azhir", "extxzyyyy", "Leftyy", "viperarctarus",
-			"HatPlayer"}},
+			"HatPlayer", "LAWET", "SacredMode"}},
         {"musician", {"BlastiXCore", "enipoint"}},
         {"leader", {"qmystic", "ElizabethaGames", "inex"}},
         {"artist", {"maximaldash", "pineapplecat", "hantein", "HelpegasuS", "wintermonster"}},
